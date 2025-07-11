@@ -17,15 +17,17 @@
    🔗 [https://eprint.iacr.org/2024/274](https://eprint.iacr.org/2024/274)
 
 ## 🤝 GitHub Guide  
-1. ```bash git clone```
-2. git checkout
 
-3. (수정 후) git add
-4. git commit -m
-5. git push
+without detail parameters
 
-6. git checkout main
-7. git pull origin main
-   
-8. git fetch origin
-9. git merge origin/main
+1. first setup: `git clone`
+2. (before work) create / switch branch: `git checkout`
+
+3. (after modification) changes to staging area: `git add`
+4. commit: `git commit`
+5. push to remote: `git push`
+6. pull request, merge
+
+7. sync with main branch: `git checkout main`, `git pull origin main`
+8. or `git fetch origin`, `git merge origin/main`
+
