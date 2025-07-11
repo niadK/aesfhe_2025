@@ -4,7 +4,7 @@
 ## 📦 Environment  
 - **Library**: [Desilo Liberate.FHE](https://fhe.desilo.dev/latest/)  
 - **Standard**: [NIST FIPS 197 – Advanced Encryption Standard (AES)](https://doi.org/10.6028/NIST.FIPS.197-upd1)
-  
+
 ## 📚 References  
 
 - **Homomorphic Evaluation of the AES Circuit (Updated Implementation)**  
@@ -15,3 +15,7 @@
 
 - **Amortized Large Look-up Table Evaluation with Multivariate Polynomials for Homomorphic Encryption**  
    🔗 [https://eprint.iacr.org/2024/274](https://eprint.iacr.org/2024/274)
+
+## 🤝 GitHub Collaboration Guide  
+1. 
+2. 
