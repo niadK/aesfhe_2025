@@ -2,8 +2,8 @@
 **2025 Summer Internship – PACLAB | Team 2**
 
 ## 📦 Environment  
-- **Library**: [Desilo Liberate.FHE](https://fhe.desilo.dev/latest/)  
-- **Standard**: [NIST FIPS 197 – Advanced Encryption Standard (AES)](https://doi.org/10.6028/NIST.FIPS.197-upd1)
+- Library: [Desilo Liberate.FHE](https://fhe.desilo.dev/latest/)  
+- Standard: [NIST FIPS 197 – Advanced Encryption Standard (AES)](https://doi.org/10.6028/NIST.FIPS.197-upd1)
 
 ## 📚 References  
 
