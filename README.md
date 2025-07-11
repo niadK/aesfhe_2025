@@ -17,5 +17,5 @@
    🔗 [https://eprint.iacr.org/2024/274](https://eprint.iacr.org/2024/274)
 
 ## 🤝 GitHub Collaboration Guide  
-1. 
+1. ```bash git clone https://github.com/username/repo-name.git```
 2. 
