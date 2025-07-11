@@ -18,7 +18,7 @@
 
 ## 🤝 GitHub Guide  
 
-Please customize the parameters according to your needs
+*Please customize the parameters according to your needs*
 
 - **First setup**:  
   `git clone`
