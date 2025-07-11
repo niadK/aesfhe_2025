@@ -19,13 +19,16 @@
 ## 🤝 GitHub Guide  
 
 1. first setup: `git clone`
-2. (before work) create / switch branch: `git checkout`
 
-3. (after modification) changes to staging area: `git add`
-4. commit: `git commit`
-5. push to remote: `git push`
-6. pull request, merge
+2. 7. sync with main branch: `git checkout main`, `git pull origin main`
+3. or `git fetch origin`, `git merge origin/main`
 
-7. sync with main branch: `git checkout main`, `git pull origin main`
-8. or `git fetch origin`, `git merge origin/main`
+
+4. (**before work**) create / switch branch: `git checkout`
+
+
+5. (**after modification**) changes to staging area: `git add`
+6. commit: `git commit`
+7. push to remote: `git push`
+8. pull request, merge
 
