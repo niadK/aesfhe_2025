@@ -18,8 +18,6 @@
 
 ## 🤝 GitHub Guide  
 
-without detail parameters
-
 1. first setup: `git clone`
 2. (before work) create / switch branch: `git checkout`
 
