@@ -17,13 +17,15 @@
    🔗 [https://eprint.iacr.org/2024/274](https://eprint.iacr.org/2024/274)
 
 ## 🤝 GitHub Guide  
-1. ```bash git clone
+1. ```bash git clone```
 2. git checkout
+
 3. (수정 후) git add
 4. git commit -m
 5. git push
 
 6. git checkout main
 7. git pull origin main
+   
 8. git fetch origin
-9. git merge origin/mainori
+9. git merge origin/main
