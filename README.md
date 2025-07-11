@@ -7,10 +7,10 @@
 
 ## 📚 References  
 
-- **Homomorphic Evaluation of the AES Circuit (Updated Implementation)**  
+- Homomorphic Evaluation of the AES Circuit (Updated Implementation)  
    [https://eprint.iacr.org/2012/099](https://eprint.iacr.org/2012/099)
 
-- **At Last! A Homomorphic AES Evaluation in Less than 30 Seconds by Means of TFHE**  
+- At Last! A Homomorphic AES Evaluation in Less than 30 Seconds by Means of TFHE  
    [https://eprint.iacr.org/2023/1020](https://eprint.iacr.org/2023/1020)
 
 - **Amortized Large Look-up Table Evaluation with Multivariate Polynomials for Homomorphic Encryption**  
